@@ -1,30 +1,25 @@
-# This is a large heading
+# David Conrad
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Berlin, in Germany.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favourite books are: 
 
-Here is `some code` in the middle of a sentence.
+-*How to Cook your Life* by Kosho Uchiyama Roshi
+-*Crime and Punishment* by Fyodor Dostoyevsky
+-*Hardcore Zen* by Brad Warner
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I am vegetarian and like:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Hummus
+2. Polenta
+3. Gomashio
 
-nano README.md
+### Contact
+
+Contact me on [LinkedIn](www.linkedin.com/in/david-conrad-0970b7111)
