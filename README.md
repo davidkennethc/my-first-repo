@@ -8,9 +8,9 @@ I live in the city of Berlin, in Germany.
 
 Three of my favourite books are: 
 
--*How to Cook your Life* by Kosho Uchiyama Roshi
--*Crime and Punishment* by Fyodor Dostoyevsky
--*Hardcore Zen* by Brad Warner
+- *How to Cook your Life* by Kosho Uchiyama Roshi
+- *Crime and Punishment* by Fyodor Dostoyevsky
+- *Hardcore Zen* by Brad Warner
 
 ### Food
 
@@ -22,4 +22,4 @@ I am vegetarian and like:
 
 ### Contact
 
-Contact me on [LinkedIn](www.linkedin.com/in/david-conrad-0970b7111)
+Contact me on [LinkedIn](https://www.linkedin.com/in/david-conrad-0970b7111)
